@@ -15,4 +15,3 @@ And by using tracing letters with fingers, you can now teach your children the c
 
 <h1>Follow and Feedback:</h1>
     abdullah.alialdin@gmail.com<br>
-    <link>www.abdoroid.tk</link>
